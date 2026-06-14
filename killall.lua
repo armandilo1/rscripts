@@ -1,3 +1,5 @@
+-- 67
+
 local function killAll()
     local plr = game:GetService("Players").LocalPlayer
     if not plr then return end
